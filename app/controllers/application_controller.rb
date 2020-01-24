@@ -13,7 +13,7 @@ class ApplicationController < Sinatra::Base
   post '/login' do
 
   end
-end
+
 
   get '/account' do
 
