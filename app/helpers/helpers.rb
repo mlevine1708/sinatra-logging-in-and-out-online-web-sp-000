@@ -1,3 +1,2 @@
 class Helpers
 end
-end
